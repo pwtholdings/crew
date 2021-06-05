@@ -1,17 +1,17 @@
-# [Accident Report](https://www.jotform.com/crumblcookies/accident)
+# Accident Report
+[https://www.jotform.com/crumblcookies/accident](https://www.jotform.com/crumblcookies/accident)
 
-
-# [Timesheet Correction Report](https://www.jotform.com/crumblcookies/timesheet-correction)
+# Timesheet Correction Report
 [https://www.jotform.com/crumblcookies/timesheet-correction](https://www.jotform.com/crumblcookies/timesheet-correction)
 
-# [Reimbursement Request](https://www.jotform.com/crumblcookies/reimbursement)
+# Reimbursement Request
 [https://www.jotform.com/crumblcookies/reimbursement](https://www.jotform.com/crumblcookies/reimbursement)
 
-# [HR / Payroll System](https://onpay.com)
+# HR / Payroll System
 [https://onpay.com](https://onpay.com)
 
-# [Schedule / Timesheet System](https://wheniwork.com)
+# Schedule / Timesheet System
 [https://wheniwork.com](https://wheniwork.com)
 
-# [Crew App](https://crew.crumbl.com)
+# Crew App
 [https://crew.crumbl.com](https://crew.crumbl.com)
