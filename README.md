@@ -15,3 +15,7 @@
 
 # Crew App
 [https://crew.crumbl.com](https://crew.crumbl.com)
+
+# Job applications
+To become one of our crew, people must fill out the following form and also send an email to  [valeesburg@crumbl.com](mailto:valeesburg@crumbl.com?subject=Job Application) when they are done.
+[https://www.jotform.com/crumblcookies/apply](https://www.jotform.com/crumblcookies/apply)
