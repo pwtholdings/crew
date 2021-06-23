@@ -16,6 +16,10 @@
 # Crew App
 [https://crew.crumbl.com](https://crew.crumbl.com)
 
+# Desired Hours
+Specify your desired total hours a week at: 
+[https://form.jotform.com/crumblcookies/desired-hours](https://form.jotform.com/crumblcookies/desired-hours)
+
 # Job applications
 To become one of our crew, people must fill out the following form and also send an email to <a href="mailto:valeesburg@crumbl.com?subject=Job Application">valeesburg@crumbl.com</a> when they are done.
 
