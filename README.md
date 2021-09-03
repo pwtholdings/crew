@@ -9,6 +9,9 @@
 ### Timesheet Correction Report
 [https://www.jotform.com/cookiecrew/timesheet-correction](https://www.jotform.com/cookiecrew/timesheet-correction)
 
+### Shipment Report / Manifest
+[https://www.jotform.com/cookiecrew/shipment-report](https://www.jotform.com/cookiecrew/shipment-report)
+
 ### Shift Lead Report
 [https://form.jotform.com/cookiecrew/shift-lead-report](https://form.jotform.com/cookiecrew/shift-lead-report)
 
