@@ -29,6 +29,9 @@
 ### Fundraising Request
 [https://form.jotform.com/cookiecrew/fundraisers](https://form.jotform.com/cookiecrew/fundraisers)
 
+### Tax Exemption Form
+https://form.jotform.com/cookiecrew/tax-exemption
+
 # Third Party Apps
 
 ### HR / Payroll System
