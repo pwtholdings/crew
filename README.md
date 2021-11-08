@@ -15,6 +15,9 @@
 ### Shift Lead Report
 [https://form.jotform.com/cookiecrew/shift-lead-report](https://form.jotform.com/cookiecrew/shift-lead-report)
 
+### Timing Report
+[https://form.jotform.com/cookiecrew/timing-metrics](https://form.jotform.com/cookiecrew/timing-metrics)
+
 ### Reimbursement Request
 [https://www.jotform.com/cookiecrew/reimbursement](https://www.jotform.com/cookiecrew/reimbursement)
 
