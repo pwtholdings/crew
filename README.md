@@ -12,8 +12,9 @@
 ### Shipment Report / Manifest
 [https://www.jotform.com/cookiecrew/shipment-report](https://www.jotform.com/cookiecrew/shipment-report)
 
-### Shift Lead Report
-[https://form.jotform.com/cookiecrew/shift-lead-report](https://form.jotform.com/cookiecrew/shift-lead-report)
+### Management Reports
+- [https://www.jotform.com/cookiecrew/report-balling-times](https://form.jotform.com/cookiecrew/report-balling-times)
+- [https://www.jotform.com/cookiecrew/report-mixing-times](https://form.jotform.com/cookiecrew/report-mixing-times)
 
 ### Timing Report
 [https://form.jotform.com/cookiecrew/timing-metrics](https://form.jotform.com/cookiecrew/timing-metrics)
