@@ -1,4 +1,5 @@
 ## Management Reports
+- [Shift Lead](https://www.jotform.com/cookiecrew/report-shift-lead)
 - [Balling Times](https://form.jotform.com/cookiecrew/report-balling-times)
 - [Mixing Times](https://form.jotform.com/cookiecrew/report-mixing-times)
 - [Cash Deposits Report](https://form.jotform.com/cookiecrew/cash-report)
