@@ -3,6 +3,7 @@
 - [Balling Times](https://form.jotform.com/cookiecrew/report-balling-times)
 - [Mixing Times](https://form.jotform.com/cookiecrew/report-mixing-times)
 - [Cash Deposits Report](https://form.jotform.com/cookiecrew/cash-deposit-report)
+- [Record Cash Tip](https://form.jotform.com/cookiecrew/cash-tip)
 - [Managerial Report](https://www.jotform.com/cookiecrew/report-managerial)
 - [Shipment Report / Manifest (Sysco)](https://www.jotform.com/cookiecrew/report-shipment)
 
