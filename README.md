@@ -7,6 +7,7 @@
 - [Managerial Report](https://www.jotform.com/cookiecrew/report-managerial)
 - [Shipment Report (Sysco & Alsco)](https://www.jotform.com/cookiecrew/report-shipment)
 - [Free Cookie Report](https://www.jotform.com/cookiecrew/report-free)
+- [Employee Sent Home Log](https://www.jotform.com/cookiecrew/sent-home)
 
 ## Crew Reports
 - [Accident Report](https://www.jotform.com/cookiecrew/accident)
