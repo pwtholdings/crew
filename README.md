@@ -5,8 +5,8 @@
 - [Cash Deposits Report](https://form.jotform.com/cookiecrew/cash-deposit-report)
 - [Record Cash Tip](https://form.jotform.com/cookiecrew/cash-tip)
 - [Managerial Report](https://www.jotform.com/cookiecrew/report-managerial)
-- [Shipment Report / Manifest (Sysco)](https://www.jotform.com/cookiecrew/report-shipment)
-
+- [Shipment Report (Sysco & Alsco)](https://www.jotform.com/cookiecrew/report-shipment)
+- [Free Cookie Report](https://www.jotform.com/cookiecrew/report-free)
 
 ## Crew Reports
 - [Accident Report](https://www.jotform.com/cookiecrew/accident)
