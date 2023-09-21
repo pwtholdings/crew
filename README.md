@@ -2,7 +2,7 @@
 - [Shift Lead](https://www.jotform.com/cookiecrew/report-shift-lead)
 - [Balling Times](https://form.jotform.com/cookiecrew/report-balling-times)
 - [Mixing Times](https://form.jotform.com/cookiecrew/report-mixing-times)
-- [Cash Deposits Report](https://form.jotform.com/cookiecrew/cash-deposit-report)
+- [Cash Drawer Report](https://form.jotform.com/cookiecrew/cash-drawer-report)
 - [Record Cash Tip](https://form.jotform.com/cookiecrew/cash-tip)
 - [Managerial Report](https://www.jotform.com/cookiecrew/report-managerial)
 - [Shipment Report (Sysco & Alsco)](https://www.jotform.com/cookiecrew/report-shipment)
@@ -15,6 +15,7 @@
 - [Reimbursement Request](https://www.jotform.com/cookiecrew/reimbursement)
 - [Desired Hours Request](https://form.jotform.com/cookiecrew/desired-hours)
 - [Tax Exemption Form](https://form.jotform.com/cookiecrew/tax-exemption)
+- [Temperture Log](https://form.jotform.com/232627973662163)
 
 # Donations & Fundraising
 
