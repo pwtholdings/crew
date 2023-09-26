@@ -9,13 +9,17 @@
 - [Free Cookie Report](https://www.jotform.com/cookiecrew/report-free)
 - [Employee Sent Home Log](https://www.jotform.com/cookiecrew/sent-home)
 
+## Store Request
+- [Maintenance Request](https://form.jotform.com/cookiecrew/maintenance-request)
+- [Equipment Request](https://form.jotform.com/cookiecrew/equipment-request)
+
 ## Crew Reports
 - [Accident Report](https://www.jotform.com/cookiecrew/accident)
 - [Timesheet Correction](https://www.jotform.com/cookiecrew/timesheet-correction)
 - [Reimbursement Request](https://www.jotform.com/cookiecrew/reimbursement)
 - [Desired Hours Request](https://form.jotform.com/cookiecrew/desired-hours)
 - [Tax Exemption Form](https://form.jotform.com/cookiecrew/tax-exemption)
-- [Temperture Log](https://form.jotform.com/232627973662163)
+- [Temperature Log](https://form.jotform.com/232627973662163)
 
 # Donations & Fundraising
 
