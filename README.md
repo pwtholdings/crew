@@ -8,6 +8,7 @@
 - [Shipment Report (Sysco & Alsco)](https://www.jotform.com/cookiecrew/report-shipment)
 - [Free Cookie Report](https://www.jotform.com/cookiecrew/report-free)
 - [Employee Sent Home Log](https://www.jotform.com/cookiecrew/sent-home)
+- [Waste Report](https://us-central1-crumb-304019.cloudfunctions.net/stats?t=waste)
 
 ## Store Request
 - [Maintenance Request](https://form.jotform.com/cookiecrew/maintenance-request)
