@@ -2,7 +2,7 @@
 - [Shift Lead](https://www.jotform.com/cookiecrew/report-shift-lead)
 - [Balling Times](https://form.jotform.com/cookiecrew/report-balling-times)
 - [Mixing Times](https://form.jotform.com/cookiecrew/report-mixing-times)
-- [Cash Drawer Report](https://form.jotform.com/cookiecrew/cash-drawer-report)
+- [Cash Drawer Verification](https://form.jotform.com/cookiecrew/cash-drawer-report)
 - [Record Cash Tip](https://form.jotform.com/cookiecrew/cash-tip)
 - [Managerial Report](https://www.jotform.com/cookiecrew/report-managerial)
 - [Shipment Report (Sysco & Alsco)](https://www.jotform.com/cookiecrew/report-shipment)
