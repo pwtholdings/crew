@@ -1,4 +1,6 @@
 ## Management Reports
+- [Shift Handoff Report](https://form.jotform.com/cookiecrew/shift-handoff)
+- [Employee Review](https://form.jotform.com/cookiecrew/employee-review)
 - [Shift Lead](https://www.jotform.com/cookiecrew/report-shift-lead)
 - [Balling Times](https://form.jotform.com/cookiecrew/report-balling-times)
 - [Mixing Times](https://form.jotform.com/cookiecrew/report-mixing-times)
