@@ -1,6 +1,6 @@
 ## Management Reports
 - [Shift Handoff Report](https://form.jotform.com/cookiecrew/shift-handoff)
-- [Shift Handoff Google Drive](https://drive.google.com/drive/folders/1VQYaPPy0xNz6uPIvX8l7-sJa_Nr79hrk?usp=sharing)
+- [Shift Handoff Google Drive](https://drive.google.com/drive/folders/1VQYaPPy0xNz6uPIvX8l7-sJa_Nr79hrk)
 - [On-Call Report](https://www.jotform.com/cookiecrew/on-call)
 - [Employee Review](https://form.jotform.com/cookiecrew/employee-review)
 - [Shift Lead](https://www.jotform.com/cookiecrew/report-shift-lead)
