@@ -10,9 +10,11 @@
 - [Record Cash Tip](https://form.jotform.com/cookiecrew/cash-tip)
 - [Managerial Report](https://www.jotform.com/cookiecrew/report-managerial)
 - [Shipment Report (Sysco & Alsco)](https://www.jotform.com/cookiecrew/report-shipment)
+- [Shipment Report (Excel Results)](https://docs.google.com/spreadsheets/d/1EsbEp9Rm5jizjCF5DL9g8G4ORrNxG3FDhrnA9MklfnA/)
 - [Free Cookie Report](https://www.jotform.com/cookiecrew/report-free)
 - [Employee Sent Home Log](https://www.jotform.com/cookiecrew/sent-home)
 - [Waste Stats](https://us-central1-crumb-304019.cloudfunctions.net/stats?t=waste)
+- [Health Inspection Reports](https://drive.google.com/drive/folders/1Prbq1ETNC6JpjBkvCF8n8vl1TEu0MyXi)
 
 ## Store Request
 - [Maintenance Request](https://form.jotform.com/cookiecrew/maintenance-request)
