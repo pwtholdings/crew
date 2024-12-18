@@ -40,6 +40,9 @@
 - [WhenIWork](https://wheniwork.com) Schedule & Timesheet System
 - [Crew App](https://crew.crumbl.com) How corporate talks to us.
 
+# Quizes
+- [Cash Handling]([https://onpay.com](https://form.jotform.com/cookiecrew/quiz-cash-handling))
+
 # Job applications
 
 [https://www.jotform.com/cookiecrew/apply](https://www.jotform.com/cookiecrew/apply)
