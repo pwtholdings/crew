@@ -41,7 +41,7 @@
 - [Crew App](https://crew.crumbl.com) How corporate talks to us.
 
 # Quizes
-- [Cash Handling]([https://onpay.com](https://form.jotform.com/cookiecrew/quiz-cash-handling))
+- [Cash Handling](https://form.jotform.com/cookiecrew/quiz-cash-handling)
 
 # Job applications
 
