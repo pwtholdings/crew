@@ -40,7 +40,7 @@
 - [WhenIWork](https://wheniwork.com) Schedule & Timesheet System
 - [Crew App](https://crew.crumbl.com) How corporate talks to us.
 
-# Shift Lead Training
+# Management Training
 - [Cash Handling](https://docs.google.com/presentation/d/1iNAd4qjHbfKku3wKErCHFow9Plfs4H8dBWVFCmGmmjk/edit?usp=sharing)
 
 # Job applications
