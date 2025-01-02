@@ -1,4 +1,4 @@
-## Management Reports
+# Management Reports
 - [Accident Report](https://www.jotform.com/cookiecrew/accident)
 - [Cash Drawer Verification](https://form.jotform.com/cookiecrew/cash-drawer-report)
 - [Free Cookie Report](https://www.jotform.com/cookiecrew/report-free)
@@ -16,18 +16,14 @@
 - [Temperature Log](https://form.jotform.com/232627973662163)
 - [Waste Stats](https://us-central1-crumb-304019.cloudfunctions.net/stats?t=waste)
 
-## Crew Reports
+# Crew Reports
 - [Timesheet Correction](https://www.jotform.com/cookiecrew/timesheet-correction)
-- [Desired Hours Request](https://form.jotform.com/cookiecrew/desired-hours)
 
 # Donations & Fundraising
-
 - [Donations Requests](https://form.jotform.com/cookiecrew/donations)
 - [Fundraising Request](https://form.jotform.com/cookiecrew/fundraisers)
 
-
 # Third Party Apps
-
 - [OnPay](https://onpay.com) Our HR / Payroll system
 - [WhenIWork](https://wheniwork.com) Schedule & Timesheet System
 - [Crew App](https://crew.crumbl.com) How corporate talks to us.
@@ -37,5 +33,4 @@
 - [Roles and Responsibilities](https://docs.google.com/presentation/d/1jg844q9BiLfOd44IM7f1_0Vsy0Bu5UT0o7-ggK8hLFM/edit?usp=sharing)
 
 # Job applications
-
 - [cooki.life/apply](cooki.life/apply)
