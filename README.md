@@ -1,6 +1,7 @@
 # Management Reports
 - [Accident Report](https://www.jotform.com/cookiecrew/accident)
 - [Cash Drawer Verification](https://form.jotform.com/cookiecrew/cash-drawer-report)
+- [Cleaning Checklist](https://docs.google.com/document/d/13u80e0naoHtwb5tVp0YO9QH0KibymTQFUhuu_UeQQak/edit?usp=sharing)
 - [Free Cookie Report](https://www.jotform.com/cookiecrew/report-free)
 - [Health Inspection Reports](https://drive.google.com/drive/folders/1Prbq1ETNC6JpjBkvCF8n8vl1TEu0MyXi)
 - [On-Call Report](https://www.jotform.com/cookiecrew/on-call)
