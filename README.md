@@ -30,7 +30,7 @@
 - [Crew App](https://crew.crumbl.com) How corporate talks to us.
 
 # Management Training
-- [Accident Reports](https://form.jotform.com/cookiecrew/quiz-accident-reports) 
+- [Accident Reports](https://docs.google.com/presentation/d/1GUOx1Swvh7Ax59jMosSXbJLcKEjbOuDKTL9BME8rh3w/edit#slide=id.g2d786d79bc7_0_0)) 
 - [Cash Handling](https://docs.google.com/presentation/d/1iNAd4qjHbfKku3wKErCHFow9Plfs4H8dBWVFCmGmmjk/edit?usp=sharing)
 - [Roles and Responsibilities](https://docs.google.com/presentation/d/1jg844q9BiLfOd44IM7f1_0Vsy0Bu5UT0o7-ggK8hLFM/edit?usp=sharing)
 
