@@ -20,6 +20,9 @@
 # Crew Reports
 - [Timesheet Correction](https://www.jotform.com/cookiecrew/timesheet-correction)
 
+# Crew Training
+-[Quality](https://docs.google.com/presentation/d/161oqyUn6G8gYpAKyMKVMf8JQR1FwWbD5-IvnsQx3Bxw/edit#slide=id.g2a5290ee21a_0_553)
+
 # Donations & Fundraising
 - [Donations Requests](https://form.jotform.com/cookiecrew/donations)
 - [Fundraising Request](https://form.jotform.com/cookiecrew/fundraisers)
