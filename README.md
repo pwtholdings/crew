@@ -21,7 +21,7 @@
 - [Timesheet Correction](https://www.jotform.com/cookiecrew/timesheet-correction)
 
 # Crew Training
-- [Card Reader Won't Connect][https://docs.google.com/presentation/d/1hV2ENy0gtD86V43cOGeH6pHENkVHFhJwJesYv6UpgSs/edit?usp=sharing]
+- [Card Reader Won't Connect](https://docs.google.com/presentation/d/1hV2ENy0gtD86V43cOGeH6pHENkVHFhJwJesYv6UpgSs/edit?usp=sharing)
 - [Dessert Quality](https://docs.google.com/presentation/d/161oqyUn6G8gYpAKyMKVMf8JQR1FwWbD5-IvnsQx3Bxw/edit?usp=sharing)
 
 # Donations & Fundraising
