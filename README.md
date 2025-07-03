@@ -23,6 +23,7 @@
 # Crew Training
 - [Card Reader Won't Connect](https://docs.google.com/presentation/d/1hV2ENy0gtD86V43cOGeH6pHENkVHFhJwJesYv6UpgSs/edit?usp=sharing)
 - [Dessert Quality](https://docs.google.com/presentation/d/161oqyUn6G8gYpAKyMKVMf8JQR1FwWbD5-IvnsQx3Bxw/edit?usp=sharing)
+- [Ecosure and Corporate Expectations](https://docs.google.com/presentation/d/15za6V7SLlJWmhwhI89YWghf5S9LokeBAM7y2caUNVXA/edit?usp=sharing)
 
 # Donations & Fundraising
 - [Donations Requests](https://form.jotform.com/cookiecrew/donations)
