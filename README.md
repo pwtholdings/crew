@@ -1,4 +1,4 @@
-# Management Reports
+# Management
 - [Accident Report](https://www.jotform.com/cookiecrew/accident)
 - [Cash Drawer Verification](https://form.jotform.com/cookiecrew/cash-drawer-report)
 - [Cleaning Checklist](https://docs.google.com/document/d/13u80e0naoHtwb5tVp0YO9QH0KibymTQFUhuu_UeQQak/edit?usp=sharing)
@@ -16,6 +16,7 @@
 - [Tax Exemption Form](https://form.jotform.com/cookiecrew/tax-exemption)
 - [Temperature Log](https://form.jotform.com/232627973662163)
 - [Waste Stats](https://us-central1-crumb-304019.cloudfunctions.net/stats?t=waste)
+- [Re-Authenticate iPad/POS/Kiosk/Internal - GET CODE](cooki.life/devices)
 
 # Crew Reports
 - [Timesheet Correction](https://www.jotform.com/cookiecrew/timesheet-correction)
