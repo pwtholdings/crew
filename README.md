@@ -16,7 +16,7 @@
 - [Tax Exemption Form](https://form.jotform.com/cookiecrew/tax-exemption)
 - [Temperature Log](https://form.jotform.com/232627973662163)
 - [Waste Stats](https://us-central1-crumb-304019.cloudfunctions.net/stats?t=waste)
-- [Re-Authenticate iPad/POS/Kiosk/Internal - GET CODE](cooki.life/devices)
+- [Re-Authenticate iPad/POS/Kiosk/Internal - GET CODE](https://cooki.life/devices)
 
 # Crew Reports
 - [Timesheet Correction](https://www.jotform.com/cookiecrew/timesheet-correction)
