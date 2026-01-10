@@ -42,3 +42,6 @@
 
 # Job applications
 - [cooki.life/apply](cooki.life/apply)
+
+# Taxes
+- [W2 Forms](https://cooki.life/w2) - Download your W2 forms for all years, prepared by 1/14 of each year.
