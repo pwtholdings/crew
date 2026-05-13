@@ -25,10 +25,10 @@
 # Crew Training
 - [Card Reader Won't Connect](https://docs.google.com/presentation/d/1hV2ENy0gtD86V43cOGeH6pHENkVHFhJwJesYv6UpgSs/edit?usp=sharing)
 - [Dessert Quality - Part 1](https://docs.google.com/presentation/d/1ggYH1pTuoTgVChaMkvKhu_JbHT04WqLLms57EWEWT9U/edit?usp=sharing)
-- [Dessert Quality - Part 2]
-- [Dessert Quality - Part 3]
-- [Dessert Quality - Part 4]
-- [Dessert Quality - Part 5]
+- [Dessert Quality - Part 2 - Coming soon!]
+- [Dessert Quality - Part 3 - Coming soon!]
+- [Dessert Quality - Part 4 - Coming soon!]
+- [Dessert Quality - Part 5 - Coming soon!]
 
 # Donations & Fundraising
 - [Donations Requests](https://form.jotform.com/cookiecrew/donations)
