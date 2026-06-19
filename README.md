@@ -27,8 +27,8 @@
 - [Dessert Quality - Part 1](https://docs.google.com/presentation/d/1ggYH1pTuoTgVChaMkvKhu_JbHT04WqLLms57EWEWT9U/edit?usp=sharing)
 - [Dessert Quality - Part 2](https://docs.google.com/presentation/d/1rXXRbm9SYXQ1YGLaBTUxHPtK6AUG7HEHcAf2uRnTZP0/edit?usp=sharing)
 - [Dessert Quality - Part 3](https://docs.google.com/presentation/d/11KRjr-N_ffgHg3svPVMLu8v8lLKUCIWnOMriNBcmtHQ/edit?usp=sharing)
-- [Dessert Quality - Part 4 - Coming soon!]
-- [Dessert Quality - Part 5 - Coming soon!]
+- [Dessert Quality - Part 4](https://docs.google.com/presentation/d/1m0xaAlZgfz6a3r3DUg4WeVJCMRdN519D0-oai4Y8fIk/edit?usp=sharing)
+- [Dessert Quality - Part 5](https://docs.google.com/presentation/d/1Z9wqr1Ou6bV-TVxKOqG6CO_0irxIO6jz0lQKgBsAN00/edit?usp=sharing)
 
 # Donations & Fundraising
 - [Donations Requests](https://form.jotform.com/cookiecrew/donations)
